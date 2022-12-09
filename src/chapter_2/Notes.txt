@@ -6,3 +6,8 @@ for the book so far
 chapter 1 is trash
 chapter 2 is good
 
+added woof
+java is boring
+css is better
+
+
