@@ -5,3 +5,6 @@
 git is easy
 
 git hub is better
+
+
+added extra text updated part to page 3
